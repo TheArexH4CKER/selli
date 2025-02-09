@@ -31,7 +31,7 @@ getgenv().Settings = {
             ["All Huges"] = {Price = "1%", AllTypes = true},
             ["Rainbow Boardgame Dice"] = {Price = "2%"},
             ["Golden Boardgame Dice"] = {Price = "2%"},
-            ["Cupids Egg"] = {Price = "1%"},
+            ["Cupids Egg"] = {Price = "3%"},
             ["Valentines Present"] = {Price = "1%"},
             ["Valentines God Potion"] = {Price = "1%"},
             ["Instant Luck Potion 4"] = {Price = "1%"},
