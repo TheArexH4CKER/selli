@@ -38,6 +38,7 @@ getgenv().Settings = {
             ["Abyssal Treasure Chest"] = {Price = "1%"},
             ["Runic Mining Chest"] = {Price = "1%"},
             ["Magma Egg"] = {Price = "1%"},
+            ["Hype Egg"] = {Price = "1%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1336383820353507350/xAuZhf_409qiWmrjUNp_Gfv_pSgU_vgFjBqv7Rcqy1ioqKzxgwION1xKYCKB_lhrRRj3"},
