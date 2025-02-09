@@ -34,7 +34,7 @@ getgenv().Settings = {
             ["Cupids Egg"] = {Price = "1%"},
             ["Valentines Present"] = {Price = "1%"},
             ["Valentines God Potion"] = {Price = "1%"},
-            --["Instant Luck Potion"] = {Price = "1%"},
+            ["Instant Luck Potion 4"] = {Price = "1%"},
             ["Abyssal Treasure Chest"] = {Price = "1%"},
             ["Runic Mining Chest"] = {Price = "1%"},
             ["Magma Egg"] = {Price = "1%"},
