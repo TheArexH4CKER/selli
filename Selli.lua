@@ -28,7 +28,6 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["Huge Hell Chest Mimic"] = {Price = 2500000000},
             ["All Huges"] = {Price = "1%", AllTypes = true},
             ["Rainbow Boardgame Dice"] = {Price = "2%"},
             ["Golden Boardgame Dice"] = {Price = "2%"},
