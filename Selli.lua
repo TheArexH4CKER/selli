@@ -28,7 +28,6 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["All Rarity: Secret"] = {Price = "1%", AllTypes = true}
             ["All Huges"] = {Price = "1%", AllTypes = true},
             ["Rainbow Boardgame Dice"] = {Price = "2%"},
             ["Golden Boardgame Dice"] = {Price = "2%"},
