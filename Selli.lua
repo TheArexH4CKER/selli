@@ -29,6 +29,9 @@ getgenv().Settings = {
         Active = true,
         ["Items"] = {
             ["All Huges"] = {Price = "1%", AllTypes = true},
+            ["Heartbreak Egg"] = {Price = "1%"},
+            ["Heartbreak Present"] = {Price = "1%"},
+            ["Boardgame Speed Potion"] = {Price = "1%"},
             ["Rainbow Boardgame Dice"] = {Price = "2%"},
             ["Golden Boardgame Dice"] = {Price = "2%"},
             ["Cupids Egg"] = {Price = "5%"},
