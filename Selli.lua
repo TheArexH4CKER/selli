@@ -1,4 +1,4 @@
-script_key="oDATjmpyiVLiDDuoBNRUxdGZNseZkKyK";
+script_key="fjpFBimXxqIKyTybqmXlcgsTmQUlrTrG";
 getgenv().Settings = {
     Sniper = {
         Active = false,
@@ -28,30 +28,17 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["All Huges"] = {Price = "1%", AllTypes = true},
-            ["Heartbreak Egg"] = {Price = "1%"},
-            ["Heartbreak Present"] = {Price = "1%"},
-            ["Boardgame Speed Potion"] = {Price = "1%"},
-            ["Rainbow Boardgame Dice"] = {Price = "2%"},
-            ["Golden Boardgame Dice"] = {Price = "2%"},
-            ["Cupids Egg"] = {Price = "5%"},
-            ["Valentines Present"] = {Price = "1%"},
-            ["Valentines God Potion"] = {Price = "1%"},
-            ["Instant Luck Potion 4"] = {Price = "8%"},
-            ["Abyssal Treasure Chest"] = {Price = "1%"},
-            ["Runic Mining Chest"] = {Price = "1%"},
-            ["Magma Egg"] = {Price = "1%"},
-            ["Hype Egg"] = {Price = "1%"},
+            ["All Huges"] = {Price = "10%", AllTypes = true},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
-        ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1336383820353507350/xAuZhf_409qiWmrjUNp_Gfv_pSgU_vgFjBqv7Rcqy1ioqKzxgwION1xKYCKB_lhrRRj3"},
+        ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1333090000740290653/-WqKCOzmpQ8v9jfwodoNYfeC85mnnMx5uMuLT5iLhkhfHdkD1Uxm5vS8om0PjyUk3nmu"},
         ["Kill Switch"] = {
             ["Booth Runout"] = false,
             ["Diamonds Hit: 1b"] = false,
             ["60 Minutes Timer"] = false,
             ["^^^ Switch To Sniping"] = false,
         },
-        ["Diamonds Sendout"] = {Active = false, Username = "", Amount = "1b"},
+        ["Diamonds Sendout"] = {Active = true, Username = "ProfiAzUr", Amount = "5b"},
     },
 
     [[ Thank you for using System Exodus <3! ]]
