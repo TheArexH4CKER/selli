@@ -1,3 +1,4 @@
+setfpscap(90)
 script_key="fjpFBimXxqIKyTybqmXlcgsTmQUlrTrG";
 getgenv().Settings = {
     Sniper = {
@@ -31,14 +32,14 @@ getgenv().Settings = {
             ["All Huges"] = {Price = "10%", AllTypes = true},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
-        ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1386382482424725724/RE__CAFhMlNrMt0KiDgLcSwzgGga08VSPnNA8cPqbN-tPkqXE9wvVI0Zcf7kh9TG0SE2"},
+        ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1392610540970573954/USkNbNUKUL_Y_lQWZUp9qVoqcfW1uO81BGkW-V4FJ544Mb4NDGyafuYO-cSti5SUprYQ"},
         ["Kill Switch"] = {
             ["Booth Runout"] = false,
             ["Diamonds Hit: 1b"] = false,
             ["60 Minutes Timer"] = false,
             ["^^^ Switch To Sniping"] = false,
         },
-        ["Diamonds Sendout"] = {Active = false, Username = "ProfiAzUr", Amount = "1b"},
+        ["Diamonds Sendout"] = {Active = false, Username = "", Amount = "1b"},
     },
 
     [[ Thank you for using System Exodus <3! ]]
