@@ -29,7 +29,7 @@ getgenv().Settings = {
     Seller = {
         Active = true,
         ["Items"] = {
-            ["All Huges"] = {Price = "10%", AllTypes = true},
+            ["All Huges"] = {Price = "5%", AllTypes = true},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1392610540970573954/USkNbNUKUL_Y_lQWZUp9qVoqcfW1uO81BGkW-V4FJ544Mb4NDGyafuYO-cSti5SUprYQ"},
