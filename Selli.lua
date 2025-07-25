@@ -30,6 +30,12 @@ getgenv().Settings = {
         Active = true,
         ["Items"] = {
             ["All Huges"] = {Price = "5%", AllTypes = true},
+            ["Basketball Gift"] = {Price = "5%" ,Priority = true},
+            ["Cosmic Basketball Gift"] = {Price = "5%", Priority = true},
+            ["Tower Defense Gift"] = {Price = "5%", Priority = true},
+            ["Matrix Tower Defense Gift"] = {Price = "5%", Priority = true},
+            ["Tropical Gift"] = {Price = "5%", Priority = true},
+            ["Hype Egg 2"] = {Price = "5%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
         ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1392610540970573954/USkNbNUKUL_Y_lQWZUp9qVoqcfW1uO81BGkW-V4FJ544Mb4NDGyafuYO-cSti5SUprYQ"},
