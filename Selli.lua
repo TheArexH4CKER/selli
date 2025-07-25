@@ -30,7 +30,7 @@ getgenv().Settings = {
         Active = true,
         ["Items"] = {
             ["All Huges"] = {Price = "5%", AllTypes = true},
-            ["Basketball Gift"] = {Price = "5%" ,Priority = true},
+            ["Basketball Gift"] = {Price = "5%", Priority = true},
             ["Cosmic Basketball Gift"] = {Price = "5%", Priority = true},
             ["Tower Defense Gift"] = {Price = "5%", Priority = true},
             ["Matrix Tower Defense Gift"] = {Price = "5%", Priority = true},
