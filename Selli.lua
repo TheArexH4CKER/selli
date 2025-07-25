@@ -38,7 +38,7 @@ getgenv().Settings = {
             ["Hype Egg 2"] = {Price = "5%"},
         },
         ["Switch Servers"] = {Active = true, MinuteDelay = 20, OnlyPRO = false},
-        ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1392610540970573954/USkNbNUKUL_Y_lQWZUp9qVoqcfW1uO81BGkW-V4FJ544Mb4NDGyafuYO-cSti5SUprYQ"},
+        ["Webhook"] = {Active = true, URL = "https://discord.com/api/webhooks/1398369756494430258/7PIX2q-OrMXg3fj1iAl7YgpOyqGtbSSoTR4zc39MMeho5MpY2ojUnk_xKZsx09U0oMqW"},
         ["Kill Switch"] = {
             ["Booth Runout"] = false,
             ["Diamonds Hit: 1b"] = false,
